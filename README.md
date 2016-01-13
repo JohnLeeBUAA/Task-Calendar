@@ -1,0 +1,2 @@
+## Project Info
+This is a Java application combining task to-do list and calendar. Users can add tasks with date, edit tasks and read task list of a specific day by clicking that day on the calendar. Users can also upload and edit course schedule. Local data is encrypted using DES algorithm.
